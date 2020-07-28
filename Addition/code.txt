@@ -1,0 +1,9 @@
+//c++ Program to add two numbers
+#include<stdio.h>
+int main()
+{
+int a,b,c; //Initialize three integer variables
+cin>>a>>b; //input two integers
+c=a+b;    //Adding it
+cout<<c;  //Output the sum
+}
